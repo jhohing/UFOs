@@ -27,15 +27,15 @@ There is a form on the page that allows the user to input different values, such
 
 Below is a image of website when you first land on the page. It displays all the data that is in the `data.js` file.
 
-!(https://github.com/jhohing/UFOs/blob/main/static/images/UFOs_main_page.png)
+![](https://github.com/jhohing/UFOs/blob/main/static/images/UFOs_main_page.png)
 
 Looking at the page there is a `Filter Search` section on the page. That section allows you to use the available filter to narrow down the data and find what the user is looking for. The user can filter on date, city, state, country, and shape. The table will automatically update as you add input to one of the five filters. Below is what the page will look like after using the state filter to search for sightings that ocurred in Florida.
 
-!(https://github.com/jhohing/UFOs/blob/main/static/images/UFOs_state_filter.png)
+![](https://github.com/jhohing/UFOs/blob/main/static/images/UFOs_state_filter.png)
 
 The `app.js` file handles filtering the data. The user can also use more than one filter at a time. Below is a screenshot of what the table will look like using the state and shape filters.
 
-!(https://github.com/jhohing/UFOs/blob/main/static/images/UFOs_multiple_filters.png)
+![](https://github.com/jhohing/UFOs/blob/main/static/images/UFOs_multiple_filters.png)
 
 To reset the table, the user can erase the input for all the filters they used or to click th e `UFO Sightings` title at the top left corner on the page.
 
